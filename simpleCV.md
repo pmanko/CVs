@@ -70,14 +70,6 @@ R Project for Statistical Computing, Matlab, Biopython
 
 ### Software Development
 
-## Tools
 
-- UI &ndash; Mobile-first Design, Responsive Web Design 
-- UX &ndash; Information Architecture, Persona Classification
-
-- Framework &ndash; Angular, React, Redux, Node.js, Express, Handlebars, Styled Components, Bootstrap, Axios, Bluebird, jQuery, AJAX
-
-
-- Methodology &ndash; Agile, Scrum, Cross-platform Development, 
 
 
