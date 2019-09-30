@@ -1,7 +1,7 @@
 # Piotr W. Mankowski
 ---------------------
 
-Seattle, WA | [857.246.9864](tel:18572469864) | [pmanko@uw.edu](email:pmanko@uw.edu) | linkedin.com/in/pmanko
+Seattle, WA | [857.246.9864](tel:18572469864) | [pmanko@uw.edu](mailto:pmanko@uw.edu) | [linkedin.com/in/pmanko](linkedin.com/in/pmanko)
 
 ---------------------
 
