@@ -60,15 +60,7 @@ Program in Sleep Medicine Epidemiology
 
 ### Biomedical and Health Informatics
 - Health Data Interoperability: FHIR, SMART on FHIR, CDS Hooks
-- 
 
-
-### Biomedical and Health Informatics 
-
-### Scientific Programming
-R Project for Statistical Computing, Matlab, Biopython
-
-### Software Development
 
 
 
